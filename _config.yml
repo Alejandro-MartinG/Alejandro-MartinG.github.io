@@ -11,7 +11,7 @@ syntax-highlight: True
 
 pages_list:
   About: 'about'
-  Publications: 'latest-post'
+  Publications: 'publications'
   Experiences: 'timeline'
   Projects: 'contact'
 
