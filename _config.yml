@@ -11,9 +11,9 @@ syntax-highlight: True
 
 pages_list:
   About: 'about'
-  Experiences: 'latest-post'
-  Projects: 'timeline'
-  Publications: 'contact'
+  Publications: 'latest-post'
+  Experiences: 'timeline'
+  Projects: 'contact'
 
 web-app-mode: True
 
@@ -34,9 +34,8 @@ lang: "en"
 title: "{ Tushar Maheshwari }"
 short-title: "{ Tushar }"
 favicon: "/img/black-lock.png"
-description: "Blog of Panos Sakkos, blogging mainly about tech. Opinions expressed are mine."
-keywords: "panos, sakkos, technology, computer science, Pwn Mail, WriteRight, UoA, di, CERN, MDCN, Microsoft, Office Graph, Machine Learning, Databases, jekyll"
-
+description: "Undergraduate NLP Researcher"
+keywords: ""
 ################
 # Intro layout #
 ################
