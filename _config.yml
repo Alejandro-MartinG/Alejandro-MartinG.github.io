@@ -11,9 +11,9 @@ syntax-highlight: True
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
-  Timeline: 'timeline'
-  Contact: 'contact'
+  Experiences: 'latest-post'
+  Projects: 'timeline'
+  Publications: 'contact'
 
 web-app-mode: True
 
