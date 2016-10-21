@@ -69,24 +69,24 @@ lines: # You can add HTML Tags in the Text
 # Blog #
 ########
 
-enable-gesture-navigation: False
+#enable-gesture-navigation: False
 
-post-preview-words: 0
+#post-preview-words: 0
 
-paginate: 5
+#paginate: 5
 
-email-share: True
-fb-share: True
-twitter-share: True
-linkedin-share: True
-reddit-share: True
-google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+#email-share: True
+#fb-share: True
+#twitter-share: True
+#linkedin-share: True
+#reddit-share: True
+#google-plus-share: True
+#tumblr-share: True
+#pinterest-share: True
+#pocket-share: True
+#vkontakte-share: True
 
-disqus-shortname: "Tushar"
+#disqus-shortname: "Tushar"
 
 ###############
 # Life Events #
