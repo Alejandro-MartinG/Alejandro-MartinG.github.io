@@ -1,7 +1,7 @@
 
 # Site settings
 
-url: "https://panossakkos.github.io"
+url: "https://tushar-maheshwari.github.io"
 baseurl: ""
 force-https: True
 
@@ -10,10 +10,10 @@ syntax-highlight: True
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
-  Blog: 'latest-post'
-  Timeline: 'timeline'
-  Contact: 'contact'
+  About: 'About'
+  Experiences: 'Experiences'
+  Projects: 'Projects'
+  Publications: 'Publications'
 
 web-app-mode: True
 
@@ -29,10 +29,10 @@ icon-192p: "/img/web-app/icon-192p.png"
 # HTML Head #
 #############
 
-author: "Panos Sakkos"
+author: "Tushar Maheshwari"
 lang: "en"
-title: "{ Panos Sakkos }"
-short-title: "{ Panos }"
+title: "{ Tushar Maheshwari }"
+short-title: "{ Tushar }"
 favicon: "/img/black-lock.png"
 description: "Blog of Panos Sakkos, blogging mainly about tech. Opinions expressed are mine."
 keywords: "panos, sakkos, technology, computer science, Pwn Mail, WriteRight, UoA, di, CERN, MDCN, Microsoft, Office Graph, Machine Learning, Databases, jekyll"
