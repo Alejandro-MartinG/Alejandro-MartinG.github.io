@@ -63,7 +63,7 @@ type-speed: 4 # Default 10
 start-delay: 2000 # Default 200
 delete-delay: 50000 # Default 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Protect what you love"
+  - text: "Undergraduate NLP Researcher"
 
 ########
 # Blog #
@@ -86,7 +86,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "Tushar"
 
 ###############
 # Life Events #
