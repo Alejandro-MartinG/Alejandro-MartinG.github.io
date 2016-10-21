@@ -10,10 +10,10 @@ syntax-highlight: True
 # Sections shown in the index page
 
 pages_list:
-  About: 'About'
-  Blog: 'Blog'
-  Timeline: 'Timeline'
-  Contact: 'Contact'
+  About: 'about'
+  Blog: 'blog'
+  Timeline: 'timeline'
+  Contact: 'contact'
 
 web-app-mode: True
 
