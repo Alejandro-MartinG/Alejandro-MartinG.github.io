@@ -14,7 +14,7 @@ pages_list:
   Publications: 'latest-post'
   Experiences: 'timeline'
   Projects: 'contact'
-  Pubs: 'about'
+  Pubs: 'publications'
 
 web-app-mode: True
 
