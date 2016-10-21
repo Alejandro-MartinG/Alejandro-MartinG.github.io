@@ -93,13 +93,13 @@ disqus-shortname: "Tushar"
 
 events:
   - image: "/img/career/ibm.png"
-    date: "September 2014 - Today"
-    description: "Software Engineer @ Microsoft Development Center Norway, working @ the <a href=\"https://graph.microsoft.io\" target=\"_blank\"> Office Graph</a>"
-  - image: "/img/career/microsoft.png"
-    date: "June 2013 - September 2013"
+    date: "October 2016"
+    description: " 'A Societal Sentiment Analysis: Predicting the Values and Ethics of Individuals by Analysing Social Media Content' Awarded 2nd best poster  @ IBM I-CARE 2016 "
+  - image: "/img/career/ntu.png"
+    date: "Summer 2016"
     description: "Software Engineering Intern @ Microsoft Development Center Norway, worked @ the <a href=\"https://graph.microsoft.io\" target=\"_blank\"> Office Graph</a>"
-  - image: "/img/career/ntu.jpg"
-    date: "October 2012 - August 2014"
+  - image: "/img/career/iiith.jpg"
+    date: "Summer 2015"
     description: "Master studies @ <a href=\"http://www.di.uoa.gr/eng\" target=\"_blank\">Department of Informatics and Telecommunications</a> on Software Engineering + <a href=\"https://scholar.google.com/citations?user=UtV6LFYAAAAJ&amp;hl=en&amp;oi=ao\" target=\"_blank\">Machine Learning researcher</a> @ <a href=\"http://kddlab.di.uoa.gr\" target=\"_blank\">KDD</a> lab"
   
 # First image of the Career timeline
