@@ -17,7 +17,20 @@
           {% include swipe-instructions.html %}
 
           <h1><strong>{{ page.title }}</strong></h1>
-         
+          <h4>
+            
+            <small>
+              . category:
+              <a class="category" href="{{site.baseurl}}/categories/{{page.category | downcase}}.html">
+                {{ page.category }}
+              </a>.
+              
+              <br />
+              {% for tag in page.tags %}
+                <a class="tag" href="{{site.baseurl}}/tags/{{tag}}.html">#{{ tag }}</a>
+              {% endfor %}
+            </small>
+          </h4>
 
           {{ page.content | markdownify }}
 
