@@ -12,8 +12,8 @@ syntax-highlight: True
 pages_list:
   About: 'About'
   Blog: 'Blog'
-  Timeline: 'Projects'
-  Contact: 'Publications'
+  Timeline: 'Timeline'
+  Contact: 'Contact'
 
 web-app-mode: True
 
