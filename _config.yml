@@ -129,13 +129,14 @@ email: "panos.sakkos@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Panos is on a mission to protect what you love by delivering products
-that utilize cryptographic principles and respect the privacy of their users. In the past
-he did research in Computer Security and Machine Learning and currently he works as a Software Engineer for Office 365."
+author_blurb: "I'm a junior undergraduate in IIIT-Sri City. I'm an NLP Enthusiast, and love to work of applied fields of Natural 
+language processing. I am a part of the Natural Language processing Lab(HiLT) at IIIT-Sri City headed by Professor Amitava Das. We work on problems like Community
+Detection, Social Media Analysis, Social Media Terrorism, Sentiment Analysis, Code-Mixing, Personality Detection, Values & Ethics Detection and
+Figurative Language"
 author_blurb_image: "/img/me.jpg"
 
 ##################
-# Social Buttons #
+# Social Buttons
 ##################
 
 social:
