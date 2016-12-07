@@ -93,6 +93,9 @@ lines: # You can add HTML Tags in the Text
 ###############
 
 events:
+  - image: "img/career/iiitd.png"
+    date: "Winter 2016"
+    description: "Research Associate @ IIITD, unser guidance of Professor Ponnurangam Kumaraguru. Worked on " *' Understanding Sociological Vulnerability of ISIS Patronisers on Twitter '* "
   - image: "/img/career/ibm.png"
     date: "October 2016"
     description: " *'A Societal Sentiment Analysis: Predicting the Values and Ethics of Individuals by Analysing Social Media Content'* Awarded 2nd best poster  @ IBM I-CARE 2016 "
@@ -119,10 +122,10 @@ email: "tushar.m14@iiits.in"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "I'm a junior undergraduate in IIIT-Sri City. I'm an NLP Enthusiast, and love to work of applied fields of Natural 
+author_blurb: "I'm a junior undergraduate in IIIT-Sri City. I'm an NLP Enthusiast, and love to work on applied fields of Natural 
 language processing. I am a part of the Natural Language processing Lab(HiLT) at IIIT-Sri City headed by Professor Amitava Das. We work on problems like Community
-Detection, Social Media Analysis, Social Media Terrorism, Sentiment Analysis, Code-Mixing, Personality Detection, Values & Ethics Detection and
-Figurative Language"
+Detection, Social Media Analysis, Social Media Terrorism, Sentiment Analysis, Code-Mixing, Personality, Values/Ethics, Age, Gender Detection, analysis of
+Figurative Language (Sarcasm, Irony, Humour, Meaphor) and Implication Analysis (Humour and Quote Understanding)."
 author_blurb_image: "/img/me.jpg"
 
 ##################
