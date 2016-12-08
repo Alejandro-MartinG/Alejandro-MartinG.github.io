@@ -93,8 +93,8 @@ lines: # You can add HTML Tags in the Text
 ###############
 
 events:
-  - image: "/img/career/ibm.png"
-    date: "October 2016"
+  - image: "/img/career/iiitd.png"
+    date: "Dec 2016"
     description: " *'A Societal Sentiment Analysis: Predicting the Values and Ethics of Individuals by Analysing Social Media Content'* Awarded 2nd best poster  @ IBM I-CARE 2016 "
   - image: "/img/career/ibm.png"
     date: "October 2016"
