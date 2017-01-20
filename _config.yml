@@ -40,9 +40,9 @@ keywords: "alejandro, alejandro-marting, personal, ruby, web develop, scraping"
 # Intro layout #
 ################
 
-black-favicon: "/img/lock.png"
-background-img: "../img/opera.jpg"
-me-img: "/img/me.jpg"
+black-favicon: "/img/black-lock.png"
+background-img: "../img/bg-k2.png"
+me-img: "/img/yolo.png"
 
 ##############################
 # Color the browser elements #
@@ -62,7 +62,7 @@ type-speed: 4 # Default 10
 start-delay: 2000 # Default 200
 delete-delay: 50000 # Default 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Undergraduate UCLM Researcher and Software developer"
+  - text: "Undergraduate UCLM, Software developer at Bizneo.com and linux lover"
 
 ########
 # Blog #
@@ -124,17 +124,12 @@ email: "alejandro.martin.gonzalez4@gmail.com"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Alejandro is an software developer. He lives in Spain, where he works on web engineering projects. In his spare time, Alejandro study computer enginering too."
-author_blurb_image: "/img/me.jpg"
+author_blurb_image: "/img/yolo.png"
 
 ##################
 # Social Buttons
 ##################
 
-social:
-  - title: "github"
-    url: "https://github.com/Tushar-Maheshwari"
-  - title: "Facebook"
-    url: "https://www.facebook.com/hitusharmaheshwari"  
 social:
   - title: "linkedin"
     url: "https://es.linkedin.com/in/alejandro-martín-gozález-8a088a107"
