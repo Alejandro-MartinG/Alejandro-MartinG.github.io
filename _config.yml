@@ -40,7 +40,7 @@ keywords: "alejandro, alejandro-marting, personal, ruby, web develop, scraping"
 # Intro layout #
 ################
 
-black-favicon: "/img/black-lock.png"
+black-favicon: "/img/lock.png"
 background-img: "../img/bg-k2.png"
 me-img: "/img/yolo.png"
 
