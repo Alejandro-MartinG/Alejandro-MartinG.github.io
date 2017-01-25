@@ -97,7 +97,7 @@ syntax-highlight: True
 events:
   - image: "/img/career/bizneo.png"
     date: "August 2015 - Today"
-    description: "Welcomeback to Bizneo.com. Web desing with rails and creating a web scraping proyect."
+    description: "Welcomeback to Bizneo. Web desing with rails and creating a web scraping proyect."
   - image: "/img/career/esi.png"
     date: "July 2017"
     description: "Finish Degree in Computer Engineering at Castilla-La Mancha University"
