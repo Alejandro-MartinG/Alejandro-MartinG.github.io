@@ -1,8 +1,11 @@
 
 <!-- About Start -->
 
-<section id="{{ page.section-type }}" class="container content-section text-center">
+<section id="{{ page.section-type }}" class="container content-section text-justify">
   <div class="row">
+    <div class="col-md-10 col-md-offset-1 text-center">
+      {{ "## About me" | markdownify }}
+    </div>
     <div class="col-md-10 col-md-offset-1">
       {{ page.content | markdownify }}
     </div>
