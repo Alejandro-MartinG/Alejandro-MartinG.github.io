@@ -122,7 +122,7 @@ email: "alejandro.martin.gonzalez4@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "I am Alejandro an software developer. Who lives in Spain, where I work on web engineering projects. In my spare time, I study computer enginering too."
+author_blurb: "I am Alejandro a software developer who lives in Spain, where I work on web engineering projects. I spend my spare time studying computer enginering."
 author_blurb_image: "/img/yolo.png"
 
 ##################
