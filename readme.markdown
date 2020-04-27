@@ -2,9 +2,7 @@
 
 Website and Blog of [Alejandro-Marting](https://Alejandro-Marting.github.io), built with [jekyll](jekyllrb.com)
 
-## Thanks Pano Sakkos
-
-Original idea from: [Panos Sakkos](http://panossakkos.github.io)
+Original template: https://github.com/le4ker/personal-jekyll-theme
 
 ## License
 
