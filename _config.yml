@@ -11,9 +11,6 @@ syntax-highlight: True
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
-  Experiences: 'timeline'
-  Projects: 'contact'
   Contact: 'contactme'
 
 web-app-mode: True
@@ -36,14 +33,14 @@ title: "{ Alejandro }"
 short-title: " Alex "
 favicon: "/img/fav.png"
 description: "Blog and website of Alejandro Martín, blogging mainly for web develop."
-keywords: "alejandro, alejandro-marting, personal, ruby, web develop, scraping"
+keywords: "personal, ruby, web develop, scraping"
 ################
 # Intro layout #
 ################
 
 black-favicon: "/img/lock.png"
 background-img: "../img/bg-k2.png"
-me-img: "/img/yolo.png"
+me-img: "/img/ale.jpg"
 
 ##############################
 # Color the browser elements #
@@ -63,7 +60,7 @@ type-speed: 4 # Default 10
 start-delay: 2000 # Default 200
 delete-delay: 50000 # Default 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Undergraduate UCLM, Software developer at Bizneo.com and linux lover"
+  - text: "Software engineer and linux lover"
 
 ########
 # Blog #
@@ -98,12 +95,6 @@ events:
   - image: "/img/career/bizneo.png"
     date: "August 2015 - Today"
     description: "Welcomeback to Bizneo. Web desing with rails and creating a web scraping proyect."
-  - image: "/img/career/esi.png"
-    date: "July 2017"
-    description: "Finish Degree in Computer Engineering at Castilla-La Mancha University"
-  - image: "/img/career/bizneo.png"
-    date: "July 2015 - January 2016"
-    description: "Intership at Bizneo.com as Software Developer. Desing an API of comunication between two projecs both built with Rails and Sinatra. Learning to use MVC webs and SQL and NoSQL databases like PosgreSQL and Redis"
 
 # First image of the Timeline
 timeline-img: "/img/career/ruby-circle.png"
@@ -131,13 +122,11 @@ author_blurb_image: "/img/yolo.png"
 
 social:
   - title: "linkedin"
-    url: "https://es.linkedin.com/in/alejandro-martín-gozález-8a088a107"
+    url: "https://www.linkedin.com/in/alejandro-mart%C3%ADn-gonz%C3%A1lez-8a088a107/"
   - title: "twitter"
     url: "https://twitter.com/alejantw"
   - title: "github"
     url: "https://github.com/Alejandro-MartinG"
-  - title: "rss"
-    url: "/feed.xml"
 
 ############
 # 404 page #
